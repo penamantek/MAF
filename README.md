@@ -7,6 +7,8 @@ The Make-a-Friend Matchmaking System is still a work-in-progress project with va
 - Service hour tracking of each student
 - Importing student names from CSV files
 
+To easily run the program, visit this link:
+https://codehs.com/sandbox/id/maf-testing-rT7OoW/run
 
 ## Version 1.1
 
